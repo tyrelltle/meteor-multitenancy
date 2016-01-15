@@ -14,7 +14,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
   api.use('ecmascript');
 
-  api.use('mizzao:partitioner');
+  api.use('mizzao:partitioner',['client','server']);
 
   api.use([
     'accounts-base',

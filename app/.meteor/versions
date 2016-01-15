@@ -40,11 +40,12 @@ launch-screen@1.0.4
 livedata@1.0.15
 localstorage@1.0.5
 logging@1.0.8
+matb33:collection-hooks@0.7.15
 meteor@1.1.10
 meteor-base@1.0.1
 minifiers@1.1.7
 minimongo@1.0.10
-mizzao:partitioner@0.1.0
+mizzao:partitioner@0.5.9
 mobile-experience@1.0.1
 mobile-status-bar@1.0.6
 mongo@1.1.3
